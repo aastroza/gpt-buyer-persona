@@ -1,0 +1,6 @@
+pandas
+openai
+ipykernel
+python-dotenv
+simpleaichat
+streamlit
